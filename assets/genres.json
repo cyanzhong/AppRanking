@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Newsstand",
+    "code": "6021"
+  },
+  {
+    "name": "Finance",
+    "code": "6015"
+  },
+  {
+    "name": "Reference",
+    "code": "6006"
+  },
+  {
+    "name": "Navigation",
+    "code": "6010"
+  },
+  {
+    "name": "Utilities",
+    "code": "6002"
+  },
+  {
+    "name": "Health & Fitness",
+    "code": "6013"
+  },
+  {
+    "name": "Education",
+    "code": "6017"
+  },
+  {
+    "name": "Travel",
+    "code": "6003"
+  },
+  {
+    "name": "Business",
+    "code": "6000"
+  },
+  {
+    "name": "Social Networking",
+    "code": "6005"
+  },
+  {
+    "name": "Photo & Video",
+    "code": "6008"
+  },
+  {
+    "name": "Lifestyle",
+    "code": "6012"
+  },
+  {
+    "name": "Sports",
+    "code": "6004"
+  },
+  {
+    "name": "Weather",
+    "code": "6001"
+  },
+  {
+    "name": "Books",
+    "code": "6018"
+  },
+  {
+    "name": "Productivity",
+    "code": "6007"
+  },
+  {
+    "name": "News",
+    "code": "6009"
+  },
+  {
+    "name": "Medical",
+    "code": "6020"
+  },
+  {
+    "name": "Music",
+    "code": "6011"
+  },
+  {
+    "name": "Entertainment",
+    "code": "6016"
+  },
+  {
+    "name": "Games",
+    "code": "6014"
+  }
+]

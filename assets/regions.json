@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mainland China",
+    "flag": "🇨🇳",
+    "code": "cn"
+  },
+  {
+    "name": "Hong Kong",
+    "flag": "🇭🇰",
+    "code": "hk"
+  },
+  {
+    "name": "United States",
+    "flag": "🇺🇸",
+    "code": "us"
+  },
+  {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "code": "uk"
+  },
+  {
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "code": "jp"
+  }
+]
